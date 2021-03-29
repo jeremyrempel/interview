@@ -104,8 +104,8 @@ val fakePhotoRepo = listOf(
     ),
     Photo(
         5,
-        "white and gray floral throw pillows on brown wooden table",
-        "https://images.unsplash.com/photo-1616258802130-5177dd65cc33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMTY5NDd8MHwxfGFsbHw0fHx8fHx8Mnx8MTYxNjQyMjM5NQ&ixlib=rb-1.2.1&q=80&w=200",
-        "https://images.unsplash.com/photo-1616323780877-35cc3453ae2f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyMTY5NDd8MHwxfGFsbHw1fHx8fHx8Mnx8MTYxNjQyMjM5NQ&ixlib=rb-1.2.1&q=85"
+        "An open floor plan office space with a minimalist setup of chairs and desks.",
+        "https://images.unsplash.com/photo-1596079890744-c1a0462d0975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMTY5NDd8MHwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNjE3MDMzMzEw&ixlib=rb-1.2.1&q=80&w=200",
+        "https://images.unsplash.com/photo-1596079890744-c1a0462d0975?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyMTY5NDd8MHwxfHNlYXJjaHwxfHxvZmZpY2V8ZW58MHx8fHwxNjE3MDMzMzEw&ixlib=rb-1.2.1&q=85"
     )
 )
